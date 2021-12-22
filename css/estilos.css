@@ -1,8 +1,12 @@
 body
 {
-    color: blue;
-    text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    background-attachment: #1e1f24;
+    color: #333;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #cabecera
@@ -13,6 +17,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -31,11 +41,20 @@ body
     margin: 0 auto;
 }
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
+
 #container h1
 {
     font-size: 20px;
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
