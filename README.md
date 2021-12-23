@@ -5,3 +5,4 @@ Solo un repositorio de prueba para el curso de git en platzi
 * comandos de git 
 * el flujo de trabajo en git
 * incluye ejemplo en windows y mac
+* disponible para todas las edades
