@@ -8,4 +8,6 @@ revisando lo que se abre al no poner mensaje
 
 master1
 
+master2
+
 agrtegando weaias
